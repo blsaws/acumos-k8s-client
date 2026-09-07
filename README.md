@@ -3,4 +3,4 @@ will be migrated to the Acumos project at https://gerrit.acumos.org once a new
 repo has been created.
 
 In the meantime, a rendering of the design documentation is available at
-http://bkaj.net/acumos/k8s-client/index.html.
+https://bkaj.net/dev/projects/k8s-client/docs/.
